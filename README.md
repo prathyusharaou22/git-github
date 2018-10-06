@@ -1,2 +1,2 @@
 # git-github
-Repository
+This is for Tutorial purpose
